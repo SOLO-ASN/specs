@@ -1,0 +1,13 @@
+# ignore all
+*
+# unignore files with extensitions
+!*.*
+# unignore all dirs
+!*/
+
+# ignore idea and vscode files
+.idea
+.vscode
+
+# ignore .DS_Store
+.DS_Store
