@@ -23,4 +23,4 @@ If you are new to this repository and want to understand its main content, pleas
 
 ## Directory Structure
 
-See [directory-structure.md](./directory-structure.md)
+See [directory-structure.md](documentation/directory-structure.md)
